@@ -1,0 +1,10 @@
+body{
+  box-sizing: border-box;
+}
+div{
+  display: block;
+}
+.btn{
+  display: inline-block;
+  padding: 5px 15px;
+}
