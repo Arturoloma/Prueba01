@@ -3,6 +3,7 @@ body{
 }
 div{
   display: block;
+  background-color: red;
 }
 .btn{
   display: inline-block;
