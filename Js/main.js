@@ -13,3 +13,7 @@ function Patata()
 {
   // Patata
 }
+function Cebolla(caramlizada)
+{
+  // Cebolla
+}
