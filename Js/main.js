@@ -9,3 +9,11 @@ function MiOtraFuncion()
 function OtraFuncionMas(){
   // Funcion de prueba
 }
+function Patata()
+{
+  // Patata
+}
+function Cebolla(caramlizada)
+{
+  // Cebolla
+}
